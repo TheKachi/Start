@@ -24,6 +24,6 @@ function numCheck (num) {
     return newNum;
 }
 
-numCheck(10);
+numCheck(100);
 
 numCheck(23);
